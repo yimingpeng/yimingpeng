@@ -4,7 +4,7 @@
 
 **Data Engineer | Data Architect | Software Engineer**
 
-*Transforming data into insights, building scalable platforms, and creating intelligent solutions*
+*Building data platforms and maintaining data pipelines at Wētā FX, world-leading VFX studio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yiming--nz-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yiming-nz)
 [![Email](https://img.shields.io/badge/Email-yimingpengjojo@gmail.com-red?style=flat-square&logo=gmail)](mailto:yimingpengjojo@gmail.com)
@@ -13,18 +13,39 @@
 
 ## 🚀 About Me
 
-I'm a passionate data professional with **8+ years** of hands-on expertise in the complete data lifecycle, from ETL pipeline development to cloud migrations and DataOps platforms. Currently working as a Senior Software Engineer at **Wētā FX**, where I build production-grade data solutions for one of the world's leading visual effects companies.
+I'm a data professional with **9+ years** of hands-on experience across the full data lifecycle - from ETL pipeline development to cloud migrations and DataOps platforms. I currently work as a **Senior Software (Data) Engineer at Wētā FX**, building  data solutions for one of the world's leading visual effects studios. Before moving into data engineering, I published **12+ papers in AI/ML research** and helped organize international ML/AI conferences.
 
-- 🔭 **Currently working on:** Various Internal Projects at Wētā FX and Some personal Projects (will update here shortly) 
-- 🌱 **Currently learning:** Advanced MLOps practices, Kubernetes orchestration, and modern data mesh architectures  
+- 🔭 **Currently working on:** Internal data/BI/ML projects at Wētā FX
+- 🌱 **Currently learning:** Advanced MLOps practices, Kubernetes orchestration, and modern data mesh architectures
 - 👯 **Looking to collaborate on:** Open-source data engineering tools, AI/ML projects, and data platform solutions
 - 💬 **Ask me about:** Data pipeline optimization, cloud migrations (AWS/Azure), machine learning systems, and DataOps best practices
-- ⚡ **Fun fact:** I have 15+ publications in AI/ML research and helped organize international AI conferences!
+
+- ⚡ **Fun fact:** 12+ AI/ML publications and helped organizing international AI conferences
 
 ## 🛠️ Technical Arsenal
 
-**Languages & Core:**
+**Languages:**
+
 ```python
-languages = ["Python", "SQL", "Java", "MATLAB", "R", "JavaScript", "C++"]
+languages = ["Python", "SQL", "JavaScript", "R", "Java", "MATLAB", "C++"]
 ```
 
+**Data & Cloud Platforms:**
+
+```python
+platforms = ["AWS", "Azure", "Airflow", "Spark", "dbt", "Snowflake", "Kubernetes"]
+```
+
+**Databases:**
+
+```python
+databases = ["PostgreSQL", "clickhouse", "snowflake"]
+```
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yimingpeng&hide_border=true)
+
+</div>
