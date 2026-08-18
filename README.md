@@ -46,6 +46,6 @@ databases = ["PostgreSQL", "clickhouse", "snowflake"]
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yimingpeng&hide_border=true)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 </div>
