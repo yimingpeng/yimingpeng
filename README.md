@@ -46,6 +46,6 @@ databases = ["PostgreSQL", "clickhouse", "snowflake"]
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yimingpeng&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yimingpeng&hide_border=true)
 
 </div>
